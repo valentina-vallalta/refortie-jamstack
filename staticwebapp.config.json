@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {
+      "route": "/profile",
+      "methods": [
+        "get"
+      ],
+      "rewrite": "/item/123",
+      "redirect": "/new-url",
+      "statusCode": 301,
+      "allowedRoles": [
+        "authenticated"
+      ],
+      "headers": {
+        "test": "temp"
+      }
+    }
+  ]
+}
