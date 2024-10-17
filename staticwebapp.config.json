@@ -1,1 +1,1 @@
-{"routes":[{"route":"/profile","methods":["get"],"rewrite":"/item/123","redirect":"/new-url","statusCode":301,"allowedRoles":["authenticated"],"headers":{"test":"temp"}}]}
+{"routes":[{"route":"/profile","methods":["get"],"rewrite":"/item/123","redirect":"/new-url","statusCode":301,"allowedRoles":["authenticated"],"headers":{"test":"temp"}}],"auth":{"rolesSource":"/api/getRolesForUsers","identityProviders":{"google":{"registration":{"clientIdSettingName":"GOOGLE_CLIENT_ID","clientSecretSettingName":"GOOGLE_CLIENT_SECRET"}}}}}
