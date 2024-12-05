@@ -1,1 +1,1 @@
-{"auth":{"rolesSource":"/api/getTolesForUsers","identityProviders":{"azureActiveDirectory":{"registration":{"clientIdSettingName":"AZURE_CLIENT_ID","clientSecretSettingName":"AZURE_CLIENT_SECRET_APP_SETTING_NAME"}}}}}
+{"auth":{"rolesSource":"/api/getTolesForUsers","identityProviders":{}}}
