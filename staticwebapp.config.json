@@ -2,9 +2,6 @@
   "routes": [
     {
       "route": "/profile"
-    },
-    {
-      "route": "lkjhgfdsdfghjk"
     }
   ],
   "auth": {
