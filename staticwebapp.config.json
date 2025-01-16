@@ -1,9 +1,4 @@
 {
-  "routes": [
-    {
-      "route": "/profile"
-    }
-  ],
   "auth": {
     "identityProviders": {
       "apple": {
