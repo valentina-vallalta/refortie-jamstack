@@ -1,1 +1,1 @@
-{"routes":[{"route":"fdfff"}],"auth":{"rolesSource":" gfv sf","identityProviders":{"facebook":{"registration":{"clientIdSettingName":"FACEBOOK_APP_ID","clientSecretSettingName":"FACEBOOK_APP_SECRET_APP_SETTING_NAME"}}}}}
+{"routes":[{"route":"fdfff"}],"auth":{"rolesSource":" gfv sf","identityProviders":{"facebook":{"registration":{"clientIdSettingName":"FACEBOOK_APP_ID","clientSecretSettingName":"FACEBOOK_APP_SECRET_APP_SETTING_NAME"}},"github":{"registration":{"clientIdSettingName":"GITHUB_CLIENT_ID","clientSecretSettingName":"GITHUB_CLIENT_SECRET_APP_SETTING_NAME"}}}}}
