@@ -1,1 +1,1 @@
-{"routes":[{"route":"fdfff"}]}
+{"routes":[{"route":"fdfff"}],"auth":{"rolesSource":"ddd","identityProviders":{"twitter":{"registration":{"clientIdSettingName":"X_CONSUMER_KEY","clientSecretSettingName":"X_CONSUMER_SECRET_APP_SETTING_NAME"}}}}}
